@@ -1,0 +1,32 @@
+{
+  "articles": [
+      {
+          "title": "Side Decks now available in DigimonCard.io",
+          "halaman": "https://digimoncard.io/article/side-decks-now-available-in-digimoncard-io-77",
+          "user": "genesis",
+          "gambar": "https://images.digimoncard.io/images/cards/EX1-066.jpg",
+          "description": "Side Decks are currently being tested by Bandai for Main Events."
+      },
+      {
+          "title": "Omnimon Merciful Mode Descends [BT9]",
+          "halaman": "https://digimoncard.io/article/omnimon-merciful-mode-descends-bt9-76",
+          "user": "antinomy",
+          "gambar": "https://digimoncard.io/article/images/1-22/08157-1643660402_.png",
+          "description": "List for Omnimon Merciful Mode Descends [BT9]"
+      },
+      {
+          "title": "Jellymon and more BT9!",
+          "halaman": "https://digimoncard.io/article/jellymon-and-more-bt9-75",
+          "user": "antinomy",
+          "gambar": "https://digimoncard.io/article/images/1-22/7bac9-1643659831_.png",
+          "description": "List for Jellymon and more BT9!."
+      },
+      {
+          "title": "More BT9 Reveals!",
+          "halaman": "https://digimoncard.io/article/more-bt9-reveals-74",
+          "user": "antinomy",
+          "gambar": "https://digimoncard.io/article/images/1-22/30e97-1643659319_.png",
+          "description": "List for BT9 Reveals"
+      }
+  ]
+}
